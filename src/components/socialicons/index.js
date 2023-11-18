@@ -3,6 +3,8 @@ import "./style.css";
 import {
   FaGithub,
   FaTwitter,
+  FaStackOverflow,
+  FaGitlab,
   FaFacebookF,
   FaLinkedin,
   FaYoutube,
@@ -14,10 +16,10 @@ export const Socialicons = (params) => {
   return (
     <div className="stick_follow_icon">
       <ul>
-        {socialprofils.twitter && (
+        {socialprofils.linkedin && (
           <li>
-            <a href={socialprofils.twitter}>
-              <FaTwitter />
+            <a href={socialprofils.linkedin}>
+              <FaLinkedin />
             </a>
           </li>
         )}
@@ -35,10 +37,17 @@ export const Socialicons = (params) => {
             </a>
           </li>
         )}
-        {socialprofils.linkedin && (
+        {socialprofils.stackoverflow && (
           <li>
-            <a href={socialprofils.linkedin}>
-              <FaLinkedin />
+            <a href={socialprofils.stackoverflow}>
+              <FaStackOverflow />
+            </a>
+          </li>
+        )}
+        {socialprofils.gitlab && (
+          <li>
+            <a href={socialprofils.gitlab}>
+              <FaGitlab />
             </a>
           </li>
         )}
