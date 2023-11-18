@@ -5,11 +5,11 @@ const meta = {
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Ali Akbari",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "Backend Enthusiast with Fullstack Expertise",
+        second: "I work as software developer",
+        third: "I convert coffee into code!",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
