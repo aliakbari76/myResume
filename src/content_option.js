@@ -1,7 +1,7 @@
 const logotext = "ALI";
 const meta = {
-    title: "Ali akbari",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Ali Akbari",
+    description: "Backend Enthusiast with Fullstack Expertise",
 };
 
 const introdata = {
@@ -11,8 +11,8 @@ const introdata = {
         second: "I work as software developer",
         third: "I convert coffee into code!",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Versatile fullstack developer with a passion for backend intricacies and expertise in Kotlin, Flutter, React, and mobile app development.",
+    your_img_url: "../../assets/images/IMG_1961.jpg",
 };
 
 const dataabout = {
@@ -146,7 +146,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "ali.akbari.76.amol@gmail.com",
     YOUR_FONE: "(+98)9030286701",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "",
 
 };
 
